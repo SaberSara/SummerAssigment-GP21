@@ -3,8 +3,9 @@ Summer assignment GP21
 
 # Unreal Project 1-Paragliding: Glider Man
 
-![image](https://user-images.githubusercontent.com/20385915/210437387-3ae0c692-ffe5-4840-81ac-b0e9f58a7817.png)
+
 ![image](https://user-images.githubusercontent.com/20385915/210438654-4ed6af40-c50b-40cb-b839-288f68af178d.png)
+![image](https://user-images.githubusercontent.com/20385915/210437387-3ae0c692-ffe5-4840-81ac-b0e9f58a7817.png)
 
 ## Summer assignment summary
 
