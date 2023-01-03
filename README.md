@@ -15,7 +15,7 @@ https://github.com/SaberSara/SummerAssigment-GP21
 - Loom:
 https://www.loom.com/share/308cf0faced84ea9be13ff53aaf21a84 
 - Trello (Tasks,References and screenshots):https://trello.com/b/sJit7YJF/gliderman 
-- Zip Release: https://drive.google.com/file/d/1nwKByTi1zNVKvQVgfUOZT-KqtU1zABN6/view?usp=sharing
+- Zip release: https://drive.google.com/file/d/1nwKByTi1zNVKvQVgfUOZT-KqtU1zABN6/view?usp=sharing
 - Project level: Fresh learner of Unreal
 
 
