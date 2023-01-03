@@ -67,8 +67,7 @@ Summary:
 
 
 Deliverables:
-- Assignment requirements document: 
-https://classroom.google.com/u/3/w/Mzg2MDYyMzAzNTYx/tc/NTM1MjQzNzI2MzM3 
+- Assignment requirements document: https://classroom.google.com/u/3/w/Mzg2MDYyMzAzNTYx/tc/NTM1MjQzNzI2MzM3 
 - 2 or more Screenshots: This file
 - Small Video (at least 10 seconds): Loom: https://www.loom.com/share/308cf0faced84ea9be13ff53aaf21a84 
 - Summary (at least 100 words): This file
