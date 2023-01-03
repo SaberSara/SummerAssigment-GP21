@@ -49,6 +49,9 @@ Challenges:
 
 ## Realisation summary:
 
+- Assignment requirements document: 
+https://drive.google.com/file/d/1Ln2CfnfOr7oHyLv8txaX_SuEFrb3z1y2/view?usp=sharing
+
 Base (done)
 - Build a new 3rd person project in UE5
 - Prepare a character possessing a kite
@@ -64,9 +67,10 @@ Summary:
 
 
 Deliverables:
-- Assignment requirements document: https://classroom.google.com/u/3/w/Mzg2MDYyMzAzNTYx/tc/NTM1MjQzNzI2MzM3 
-- 2 or more Screenshots: GitHub
-- Small Video (at least 10 seconds): Loom https://www.loom.com/share/308cf0faced84ea9be13ff53aaf21a84 
+- Assignment requirements document: 
+https://classroom.google.com/u/3/w/Mzg2MDYyMzAzNTYx/tc/NTM1MjQzNzI2MzM3 
+- 2 or more Screenshots: This file
+- Small Video (at least 10 seconds): Loom: https://www.loom.com/share/308cf0faced84ea9be13ff53aaf21a84 
 - Summary (at least 100 words): This file
 - Project-Zip or GitHub URL: https://github.com/SaberSara/SummerAssigment-GP21 
 - (If applicable) Zip or URL to Build / Release: https://drive.google.com/file/d/1nwKByTi1zNVKvQVgfUOZT-KqtU1zABN6/view?usp=sharing
